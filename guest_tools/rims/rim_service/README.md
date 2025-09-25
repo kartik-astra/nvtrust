@@ -4,9 +4,13 @@
 
 The NVIDIA Reference Integrity Manifest (RIM) Service is a file-hosting service that provides a mechanism for secure transfers of requested RIM bundles by Attestation platforms for GPU Attestation.
 
-Please visit for full documentation: [NVIDIA RIM Service Documentation](https://docs.attestation.nvidia.com/RIM/rim_introduction.html)
+For documentation please visit: [NVIDIA RIM Service Documentation](https://docs.nvidia.com/attestation/cloud-services/latest/rim/rim_introduction.html)
 
+## License
 
-## API Documentation
+This repository is licensed under Apache License v2.0 except where otherwise noted.
 
-Please see for API details: [NVIDIA RIM Service API Documentation](https://docs.attestation.nvidia.com/api-docs/rim.html#get-/v1/rim/-id-)
+## Support
+
+- For issues or questions, please [file a bug](https://github.com/NVIDIA/nvtrust/issues). 
+- For additional support, contact us at [attestation-support@nvidia.com](mailto:attestation-support@nvidia.com)
